@@ -1,21 +1,21 @@
 ---
 layout: default
 ---
-
+- name
 {% include 01-name.md %}
 
-<br>
+- image
 
 {% include 02-image.md %}
 
-<br>
+- links
 
 {% include 03-links.md %}
 
-<br>
+- list
 
 {% include 04-lists.md %}
 
-<br>
+- emphasis
 
 {% include 05-emphasis.md %}
