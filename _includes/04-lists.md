@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. george
+2. ming
+3. nice
